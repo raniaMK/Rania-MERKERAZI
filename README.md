@@ -31,8 +31,8 @@ Data Cleaning · Data Visualization · Dashboard Design · A/B Testing · Busine
 ## 📫 Let's Connect
 
 - 🔗 [LinkedIn] https://www.linkedin.com/in/rania-mekrazi/)
-- 📧 mekrazirania21@gmail.com
-- 🌐 [Portfolio Website]( https://raniamk.github.io/mekrazirania.github.io/)
+- 📧 [Mail]mekrazirania21@gmail.com
+- 🌐 [Portfolio Website] ( https://raniamk.github.io/mekrazirania.github.io/)
 
 ---
 
